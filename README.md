@@ -1,6 +1,6 @@
 # Dissertation-Code  
 
-Python code for my undergraduate dissertation analyzing how **Chinese state media portrayed Japan in English (2013–2023)**.  
+Python code for my undergraduate dissertation analyzing how **Chinese state media portrayed Japan in English (2013–2025)**.  
 
 The project uses **LDA topic modeling** to identify themes, track their evolution, and explore how these connect to concepts of **strategic narratives**.  
 
